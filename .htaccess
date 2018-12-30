@@ -1,0 +1,4 @@
+<Files "*.crx">
+Order Allow,Deny
+Deny from all
+</Files>
