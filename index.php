@@ -22,6 +22,7 @@
             2. Find your Chrome version at <span style="color: blue;">chrome://about</span><br>
             3. Download the CRX file<br>
             4. Open <span style="color: blue;">chrome://extensions</span> at drag in the CRX</p>
+            <br>
             <p><i>Note: this tool is not intended to archive or otherwise store Web Store files long-term.</i></p>
         </center>
     </body>
