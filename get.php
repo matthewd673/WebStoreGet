@@ -3,7 +3,7 @@
     require_once("clean.php");
 
     $id = $_GET["id"];
-    $version = $_GET["version"];
+    $version = "100";
 
     $requestOptions = array('http' => array('user_agent' => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/" . $version . " Safari/537.36", "follow_redirect" => false));
     $requestContext = stream_context_create($requestOptions);
