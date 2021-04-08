@@ -4,6 +4,7 @@
 <html>
     <head>
         <title>Web Store Get</title>
+        <style>html { font-family: sans-serif; }</style>
     </head>
     <body>
         <br><br><br><br><br><br>
